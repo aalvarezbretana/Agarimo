@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722391300107",
+    "project_id": "agarimo1-6ce2b",
+    "storage_bucket": "agarimo1-6ce2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722391300107:android:b19a012542fefe95132f0e",
+        "android_client_info": {
+          "package_name": "com.lalo.agarimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722391300107-kc7lh62vuv2cvk6tu8lq9hua53n874nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lalo.agarimo",
+            "certificate_hash": "f881a5e5927dfcdbdca067cf8ef5a814d2d17983"
+          }
+        },
+        {
+          "client_id": "722391300107-2uqq4m7b2u8643uttvteg94v1pa228km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwhdNdSqmRPUffjFxAWbQtdwnj1U_bCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722391300107-2uqq4m7b2u8643uttvteg94v1pa228km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
